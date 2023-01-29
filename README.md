@@ -1,4 +1,4 @@
-# coffee-bean
+# BookHouse
 
 ## Project setup
 ```
